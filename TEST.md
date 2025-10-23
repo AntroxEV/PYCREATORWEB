@@ -8,6 +8,9 @@
 
 'git status' - check  the state of a working tree 
 
+## Add new changes
+`git add <files>' - add file
+
 
 
 
