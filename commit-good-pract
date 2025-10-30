@@ -1,3 +1,8 @@
 best git text 
 ## test
 'git-commit <files>' - this commits the file
+
+2 new modification
+'git diff <commit1> <commit2>' - test
+
+'new change' - test 2
